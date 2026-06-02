@@ -1,16 +1,16 @@
 # Arturious Tap
 
-## How do I install these formulae?
+## Install Kiyomemo
 
-`brew install arturious/tap/<formula>`
+```sh
+brew install --cask arturious/tap/kiyomemo
+```
 
-Or `brew tap arturious/tap` and then `brew install <formula>`.
+Or tap the repository first:
 
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "arturious/tap"
-brew "<formula>"
+```sh
+brew tap arturious/tap
+brew install --cask kiyomemo
 ```
 
 ## Documentation
