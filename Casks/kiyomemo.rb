@@ -1,6 +1,6 @@
 cask "kiyomemo" do
-  version "0.1.4"
-  sha256 "1611b720d89db03e2c9fa9c33a5f3d827be4bee647bd2a6042f113cb33f867dd"
+  version "0.1.5"
+  sha256 "f352410743ff7c807aad8612c15b68754c044e9ce9ea8e5a6eba7089ff08e759"
 
   url "https://github.com/arturious/kiyomemo/releases/download/v#{version}/Kiyomemo-v#{version}.dmg"
   name "Kiyomemo"
